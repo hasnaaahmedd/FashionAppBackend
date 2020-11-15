@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "fashion app server",
+  "main": "server.js",
+  "scripts": {
+    "test": "no test specified"
+  },
+  "keywords": [
+    "fashionapp"
+  ],
+  "author": "Hasnaa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.10.11"
+  }
+}
